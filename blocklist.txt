@@ -186,3 +186,8 @@ www.google.tt
 www.google.vg
 www.google.vu
 www.google.ws
+www.yandex.by
+www.yandex.com
+www.yandex.kz
+www.yandex.ru
+www.yandex.ua
